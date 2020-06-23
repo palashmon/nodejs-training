@@ -12,7 +12,7 @@ This repository is created to keep track of my progress for the internal Node.js
 
 - Learned about synchronous and asynchronous code.
 - Introduction to nodejs and event loop and use cases where node can be used.
-- [Full Details here](Day1/README.md)
+- [Full Details here](Day1/)
 
 ### Day 2: June 23, 2020
 
@@ -20,4 +20,4 @@ This repository is created to keep track of my progress for the internal Node.js
 - Creating your first node project with npm.
 - Module system and creating a custom modules by examples.
 - A quick overview of built in libraries.
-- [Full Details here](Day2/README.md)
+- [Full Details here](Day2/)
