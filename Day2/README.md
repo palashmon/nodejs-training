@@ -68,9 +68,9 @@ The Command Line Interface (CLI)
 
 - The NPM is bundled with the Node.js binary, so we don't have to install it. To verify that we have NPM up and running, run this:
 
-      ```bash
-      npm -v
-      ```
+  ```bash
+  npm -v
+  ```
 
   If everything is ok, it will return the version number of the installed npm.
 
