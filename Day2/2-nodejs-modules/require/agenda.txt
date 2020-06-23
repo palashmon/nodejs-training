@@ -1,0 +1,12 @@
+- Recap
+- NodeJs installation
+- a very simple application
+- import and export
+- I/O example
+- callback
+- npm
+- package.json
+- add/remove dependencies [ devDependecies]
+- use lodash to demonstrate usage
+- scripts
+- libraries
