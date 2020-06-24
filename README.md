@@ -21,3 +21,10 @@ This repository is created to keep track of my progress for the internal Node.js
 - Module system and creating a custom modules by examples.
 - A quick overview of built in libraries.
 - [Full Details here](Day2/)
+
+### Day 3: June 24, 2020
+
+- Introduction to creating a simple http server.
+- Express application framework and express generators.
+- Introduction to router module and express routers.
+- [Full Details here](Day3/)
