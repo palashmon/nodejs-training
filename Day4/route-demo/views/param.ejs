@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <% include partials/head %>
+  </head>
+  <body>
+    <header>
+      <% include partials/header %>
+    </header>
+    <main>
+      <div class="jumbotron mb-0">
+        <h2><%= title %></h2>
+        <p>
+          Welcome
+          <strong style="text-transform: capitalize;"
+            ><%= req.params.name %></strong
+          >, to the <%= title %>!
+        </p>
+        <div style="background-color: white;" class="p-4 rounded">
+          <div>
+            <label>Route path:</label>&nbsp;&nbsp;<code>/user/:name</code>
+          </div>
+          <div>
+            <label>Request URL:</label>&nbsp;&nbsp;<code><%= req.url %></code>
+          </div>
+          <div>
+            <label>req.params:</label>&nbsp;&nbsp;<code
+              ><%= JSON.stringify(req.params) %></code
+            >
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

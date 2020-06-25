@@ -28,3 +28,10 @@ This repository is created to keep track of my progress for the internal Node.js
 - Express application framework and express generators.
 - Introduction to router module and express routers.
 - [Full Details here](Day3/)
+
+### Day 4: June 25, 2020
+
+- Introduction to MVC pattern.
+- Learned about Custom routes.
+- Created simple route and controller.
+- [Full Details here](Day4/)

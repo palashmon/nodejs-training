@@ -1,0 +1,12 @@
+/* Error-level semantics
+   ========================================================================== */
+pre.error {
+  padding: 2rem 0;
+  background: white;
+  line-height: 2.5;
+  white-space: pre-line;
+}
+
+.jumbotron {
+  min-height: calc(100vh - 56px);
+}

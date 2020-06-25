@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <% include partials/head %>
+  </head>
+  <body>
+    <main>
+      <div class="jumbotron mb-0">
+        <h1><%= message %></h1>
+        <h2><%= error.status %></h2>
+        <pre class="error px-4 rounded"><%= error.stack %></pre>
+        <a href="/">Back to Home</a>
+      </div>
+    </main>
+  </body>
+</html>
