@@ -35,3 +35,9 @@ This repository is created to keep track of my progress for the internal Node.js
 - Learned about Custom routes.
 - Created simple route and controller.
 - [Full Details here](Day4/)
+
+### Day 5: June 26, 2020
+
+- Created an CRUD api using [Express.js](https://expressjs.com/)
+- Tested API endpoints using [Postman](https://www.postman.com/).
+- [Full Details here](Day5/)
