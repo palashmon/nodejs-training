@@ -1,0 +1,3 @@
+Hello World!
+
+This is simple doc file named `doc.txt`
