@@ -1,0 +1,17 @@
+{
+  "name": "compress-files",
+  "version": "1.0.0",
+  "description": "Write an application that processes a directory and zip all the directories content inside it into another directory.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Palash Mondal",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^4.0.1",
+    "glob-promise": "^3.4.0"
+  }
+}
