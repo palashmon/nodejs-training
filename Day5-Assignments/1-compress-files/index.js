@@ -10,7 +10,6 @@ const Helper = require('./helper')
 async function init() {
   try {
     await Helper.createDirectory()
-    await Helper.deleteZipFile()
     const paths = await Helper.getAllFilePaths()
     if (!paths || !paths.length) {
       console.log('\nNo files found in the "/test" directory')
