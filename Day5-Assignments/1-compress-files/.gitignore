@@ -1,9 +1,3 @@
 .DS_Store
 node_modules/
 *.log
-
-# exclude everything inside output
-output/
-
-# exception to the rule
-!output/.gitkeep
