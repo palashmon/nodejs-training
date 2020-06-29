@@ -1,0 +1,25 @@
+extends ../layout
+
+block content
+  .container
+    .row.justify-content-between
+      h2 All Users
+      div
+        a.btn.btn-primary(href="/users/create") New User
+    .row.mt-4
+      .col-md-12
+        table.table.table-hover
+          thead
+            tr
+              th First Name
+              th Last Name
+              th Username
+          tbody
+            each user in users
+              tr
+                td= user.firstName
+                td= user.lastName
+                td= user.userName
+    .row.mt-4
+      .col-md-12
+        a.btn.btn-primary(href="/") Back to home

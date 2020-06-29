@@ -41,3 +41,9 @@ This repository is created to keep track of my progress for the internal Node.js
 - Created an CRUD api using [Express.js](https://expressjs.com/)
 - Tested API endpoints using [Postman](https://www.postman.com/).
 - [Full Details here](Day5/)
+
+### Day 6: June 29, 2020
+
+- Learned about integrating templates into Express.
+- Created a custom view & passing data to view from controllers.
+- [Full Details here](Day6/)

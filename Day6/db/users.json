@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Palash",
+    "lastName": "Mondal",
+    "userName": "palashmon",
+    "password": "123",
+    "_id": "4f2c71d4e03d4eb496c5b3ea7d04fd91"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "userName": "peter.parker",
+    "password": "p123",
+    "_id": "990fa8e382c14ab38d8f69aa678f4004"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "userName": "tonystark55",
+    "password": "tonystark55",
+    "_id": "805bcf9c9d6a45f3b0910d4a3ca5da9d"
+  }
+]

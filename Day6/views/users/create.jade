@@ -1,0 +1,23 @@
+extends ../layout
+
+block content
+  .container
+    fieldset
+      h2 New User
+      form(name="add-user", method="post", action="save")
+        .row.mt-4
+          .col-12.form-group
+            label.font-weight-bold First Name:
+            input.form-control(type="text", name="firstName",required,placeholder='Enter First Name')
+          .col-12.form-group
+            label.font-weight-bold Last Name:
+            input.form-control(type="text", name="lastName",required,placeholder='Enter Last Name')
+          .col-12.form-group
+            label.font-weight-bold UserName:
+            input.form-control(type="text", name="userName",required,placeholder='Enter your UserName')
+          .col-12.form-group
+            label.font-weight-bold Password:
+            input.form-control(type="password", name="password",placeholder='Enter your password')
+          .col-12.form-group
+            input.btn.btn-primary.mr-2(type="submit", value="Submit")
+            a.btn.btn-secondary(href="/users") Cancel
