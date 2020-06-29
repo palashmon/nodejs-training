@@ -1,0 +1,19 @@
+{
+  "name": "first-cli-app",
+  "version": "1.0.0",
+  "description": "A simple CLI application to calculate SUM of purchases.",
+  "main": "cli.js",
+  "bin": {
+    "calculate": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Palash Mondal",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0"
+  }
+}
