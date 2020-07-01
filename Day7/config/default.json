@@ -1,0 +1,8 @@
+{ 
+  "mysqlConnection": {
+    "host": "localhost",
+    "database": "NodeSession",
+    "user": "root",
+    "password": "mindfire"
+  }
+}

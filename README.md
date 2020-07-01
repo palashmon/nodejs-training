@@ -47,3 +47,9 @@ This repository is created to keep track of my progress for the internal Node.js
 - Learned about integrating templates into Express.
 - Created a custom view & passing data to view from controllers.
 - [Full Details here](Day6/)
+
+### Day 7: July 1, 2020
+
+- Learned about use cases of controller in Nodejs.
+- Learned about connecting to databases.
+- [Full Details here](Day7/)
