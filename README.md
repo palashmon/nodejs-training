@@ -53,3 +53,9 @@ This repository is created to keep track of my progress for the internal Node.js
 - Learned about use cases of controller in Nodejs.
 - Learned about connecting to databases.
 - [Full Details here](Day7/)
+
+### Day 8: July 2, 2020
+
+- Understanding [Middleware](https://expressjs.com/en/guide/using-middleware.html) in Express.
+- Learned about different use cases of middleware.
+- [Full Details here](Day8/)
