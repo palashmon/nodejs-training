@@ -59,3 +59,10 @@ This repository is created to keep track of my progress for the internal Node.js
 - Understanding [Middleware](https://expressjs.com/en/guide/using-middleware.html) in Express.
 - Learned about different use cases of middleware.
 - [Full Details here](Day8/)
+
+### Day 9: July 3, 2020
+
+- Understanding callbacks.
+- Need of promises.
+- Using Async/Await.
+- [Full Details here](Day9/)
