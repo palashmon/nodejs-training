@@ -66,3 +66,11 @@ This repository is created to keep track of my progress for the internal Node.js
 - Need of promises.
 - Using Async/Await.
 - [Full Details here](Day9/)
+
+### Day 10: July 6, 2020
+
+- Today learned more about Promises and Promise chaining.
+- Learned about error handling with promises.
+- Learned about [`Promise.all`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
+- Looked more into Async/await.
+- [Full Details here](Day10/)
