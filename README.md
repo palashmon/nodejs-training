@@ -74,3 +74,10 @@ This repository is created to keep track of my progress for the internal Node.js
 - Learned about [`Promise.all`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 - Looked more into Async/await.
 - [Full Details here](Day10/)
+
+### Day 11: July 7, 2020
+
+- Learned about functional programming with map, reduce and filter.
+- Destructuring
+- Default parameters
+- [Full Details here](Day11/)
