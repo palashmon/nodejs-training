@@ -81,3 +81,13 @@ This repository is created to keep track of my progress for the internal Node.js
 - Destructuring
 - Default parameters
 - [Full Details here](Day11/)
+
+### Day 12: July 8, 2020
+
+- Today learned about default function parameter - `function name(param1 = defaultValue1, ..., paramN = defaultValueN)`
+- Rest parameters - `f(a, b, ...theArgs)`
+- Spread syntax - `{ ...obj }`, `[...iterableObj, '4', 'five', 6]`
+- Object literal syntax.
+- Template literal - `string text ${expression}`
+- Destructuring - `let [firstName, surname] = ["Julius", "Caesar"];` or `let {var1, var2} = { var1:…, var2:… }`
+- [Full Details here](Day12/)
