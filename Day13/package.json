@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Test-Driven Development(TDD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec \"mocha\""
+  },
+  "keywords": [],
+  "author": "Palash Mondal",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}

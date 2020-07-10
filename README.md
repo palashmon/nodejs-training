@@ -91,3 +91,9 @@ This repository is created to keep track of my progress for the internal Node.js
 - Template literal - `string text ${expression}`
 - Destructuring - `let [firstName, surname] = ["Julius", "Caesar"];` or `let {var1, var2} = { var1:…, var2:… }`
 - [Full Details here](Day12/)
+
+### Day 13: July 10, 2020
+
+- Today learned about Unit testing in node using [`assert`](https://nodejs.org/api/assert.html) module.
+- Using a dedicated library ([chai](https://www.chaijs.com/) and [mocha](https://mochajs.org/)) for unit tests.
+- [Full Details here](Day13/)
