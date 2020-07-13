@@ -97,3 +97,9 @@ This repository is created to keep track of my progress for the internal Node.js
 - Today learned about Unit testing in node using [`assert`](https://nodejs.org/api/assert.html) module.
 - Using a dedicated library ([chai](https://www.chaijs.com/) and [mocha](https://mochajs.org/)) for unit tests.
 - [Full Details here](Day13/)
+
+### Day 14: July 13, 2020
+
+- Today learned about [Sinon.JS](https://sinonjs.org/).
+- Introduction to stub, mock and spies in node.
+- [Full Details here](Day14/)
