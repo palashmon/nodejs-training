@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "5f0eac6436492727a08f2dfa",
+    "status": true,
+    "firstName": "Palash",
+    "lastName": "Mondal",
+    "email": "palash@test.com",
+    "password": "$2b$10$AQBvyKdwN.Nc1X49Ca/7ROc9nJtXjiNLTQqBru/ZvTz4KA.xRRlK6",
+    "role": "Patient"
+  },
+  {
+    "_id": "5f0eac7f36492727a08f2dfb",
+    "status": true,
+    "firstName": "Rahul",
+    "lastName": "Das",
+    "email": "rahul@test.com",
+    "password": "$2b$10$5sXa25Tuqf6f5Xr/c./5qe6kuitYdcVGVqNhvX2FAcfR0uh/8gkz2",
+    "role": "Patient"
+  },
+  {
+    "_id": "5f0ead6a85905e2bb8bba69c",
+    "status": true,
+    "firstName": "Dr. Gaurav",
+    "lastName": "Rajender",
+    "email": "gauravr@test.com",
+    "password": "$2b$10$tUBUPmlHWhpQY7ueaqv7weLhB2Civ7toDs1/rVKq62oiaVE3iD0rG",
+    "role": "Doctor"
+  },
+  {
+    "_id": "5f0ead8085905e2bb8bba69d",
+    "status": true,
+    "firstName": "Dr. Naman",
+    "lastName": "Mathur",
+    "email": "namanm@test.com",
+    "password": "$2b$10$ZVW.hs78HwUy2gIhubrfVuMdo..MSBYffVJvIovF/XV.YBXtMt5/2",
+    "role": "Doctor"
+  }
+]
